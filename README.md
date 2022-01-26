@@ -1,4 +1,5 @@
-### Hi there 👋
+### Merhaba ibax network sakinleri.. 👋
+### Bu proje kapsamında github ve ibax network platformu üzerinde oluşan soru işaretlerini gidermeye çalışacağız.
 
 <!--
 **qRaVii/qRaVii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
